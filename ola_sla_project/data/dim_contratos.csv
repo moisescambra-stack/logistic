@@ -1,0 +1,7 @@
+id_contrato,cliente,tipo_servicio,sla_disponibilidad_pct,sla_respuesta_p1_min,sla_respuesta_p2_min,sla_respuesta_p3_min,sla_resolucion_p1_min,sla_resolucion_p2_min,sla_resolucion_p3_min,penalizacion_incumplimiento_eur
+A,Repsol,Soporte Correctivo,95,15,30,120,120,240,480,500
+A,Repsol,Soporte Preventivo,98,10,25,90,90,180,360,750
+B,Iberdrola,Gestión de Incidencias,90,20,45,180,150,300,720,1000
+B,Iberdrola,Reporting Operativo,99,5,15,60,60,120,240,1500
+C,Maersk,Seguimiento Entregas,95,15,35,120,120,240,480,800
+C,Maersk,Alertas EWI,99,10,20,60,90,180,360,2000

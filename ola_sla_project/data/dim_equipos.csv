@@ -1,0 +1,7 @@
+id_equipo,nombre_equipo,nivel,proceso,ola_objetivo_pct,descripcion
+T1,Nivel 1,L1,Resolución L1,85,Primera línea de atención y resolución de incidencias básicas
+T1,Nivel 1,L1,Escalado a L2,90,Escalado correcto y documentado a nivel 2 en tiempo acordado
+T2,Nivel 2,L2,Resolución L2,88,Resolución de incidencias técnicas de complejidad media
+T2,Nivel 2,L2,Revisión preventiva,95,Ejecución de tareas preventivas programadas en plazo
+T3,Nivel 3,L3,Entrega reporting,99,Entrega puntual de reportes operativos a cliente
+T3,Nivel 3,L3,Actualización dashboards,97,Actualización de dashboards y alertas EWI en ventana acordada
